@@ -12,6 +12,7 @@ const Navber = () => {
       {user && (
         <>
           <NavLink to="/orders">Orders</NavLink>
+          <NavLink to="/profile">Profile</NavLink>
         </>
       )}
     </>
